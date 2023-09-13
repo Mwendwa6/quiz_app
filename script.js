@@ -5,7 +5,7 @@ var pos = 0, test, test_status, questions,  choice, choices, chA, chB, chC, corr
 		["Who created java?", "James Gosling", "Princely Ceasar", "July King Kadayuna", "A"],
 		["Who created c# language?", "Microsoft Corporation", "Google Company", "You Tube Corporation", "A"],
 		["Who created php?", "Rasmus Lerdorf", "Grace Patulada", "Nikko Curaza", "A"],
-		["Who created itsourcecode.com?", "Charlotte Villanueva", "Joken Villanueva", "Niko Embang", "B"],
+		["Which programming language did first generation computers use?", "c", "Machine language", "Visual basic", "B"],
 		["Who created laravel?", "Boknoi Villaflor", "Taylor Otwell", "Ryan Manaay", "B"],
 		["Who created database?", "Edgar Frank Codd", "Paul Niar", "Given Bariacto", "A"],
 		["Who created c++ language?", "Kirk Eriman", "Bjarne Stroustrup", "Jomhel Dulla", "B"],	
